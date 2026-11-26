@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 10 problems · 0 labs · 3 math
+**14** solved · 11 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-26 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-11-26 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-26 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
+| [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-11-26 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Automated Data Profile: Types, Missingness, Cardinality and Outliers](https://www.deep-ml.com/problems/2177) | medium | 2026-11-25 | [solution](problems/2177-automated-data-profile-types-missingness-cardinality-and-outliers) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-11-26 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-11-26 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
