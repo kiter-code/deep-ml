@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:28:57.849Z",
+  "generated_at": "2026-11-26T12:36:37.598Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -111,6 +111,19 @@
       "last_pushed_at": "2026-11-26T12:28:56.777Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:275": {
+      "kind": "problem",
+      "id": "275",
+      "title": "Implement Stratified Train-Test Split",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/275",
+      "path": "problems/0275-implement-stratified-train-test-split",
+      "first_solved_at": "2026-11-26T12:36:36.810Z",
+      "last_pushed_at": "2026-11-26T12:36:36.810Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
