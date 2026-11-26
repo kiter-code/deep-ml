@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T09:09:35.727Z",
+  "generated_at": "2026-11-26T10:55:20.411Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -72,6 +72,19 @@
       "path": "math/0354-missing-data-mechanisms-mcar-mar-nmar-and-the-bias-of-mean-imputation",
       "first_solved_at": "2026-11-26T09:09:34.709Z",
       "last_pushed_at": "2026-11-26T09:09:34.709Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-11-26T10:55:19.743Z",
+      "last_pushed_at": "2026-11-26T10:55:19.743Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
