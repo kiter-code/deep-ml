@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 3 problems · 0 labs · 2 math
+**6** solved · 3 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-11-25 | [solution](math/0018-descriptive-statistics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-11-26 | [solution](math/0030-ml-workflow-basics) |
+| [Missing-Data Mechanisms: MCAR, MAR, NMAR and the Bias of Mean Imputation](https://www.deep-ml.com/math-problems/354) | medium | 2026-11-26 | [solution](math/0354-missing-data-mechanisms-mcar-mar-nmar-and-the-bias-of-mean-imputation) |
 
 ---
 
