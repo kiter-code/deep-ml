@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:25:28.767Z",
+  "generated_at": "2026-11-27T12:28:57.461Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -497,6 +497,17 @@
       "last_pushed_at": "2026-11-27T12:25:28.082Z",
       "language": "python",
       "lines": 34
+    },
+    "math:6": {
+      "kind": "math",
+      "id": "6",
+      "title": "Optimization: Convexity and Critical Points",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/6",
+      "path": "math/0006-optimization-convexity-and-critical-points",
+      "first_solved_at": "2026-11-27T12:28:56.817Z",
+      "last_pushed_at": "2026-11-27T12:28:56.817Z"
     }
   }
 }
