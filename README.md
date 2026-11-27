@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 36 problems · 2 labs · 9 math
+**48** solved · 37 problems · 2 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-11-27 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-11-27 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-11-27 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
+| [Plan a Factory's Production with a Linear Program](https://www.deep-ml.com/problems/2188) | medium | 2026-11-27 | [solution](problems/2188-plan-a-factory-s-production-with-a-linear-program) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-26 | [solution](problems/0842-standardscaler-fit-and-transform) |
 
 ## Labs

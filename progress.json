@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:05:11.430Z",
+  "generated_at": "2026-11-27T13:07:51.047Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -593,6 +593,19 @@
       "last_pushed_at": "2026-11-27T13:05:10.714Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:2188": {
+      "kind": "problem",
+      "id": "2188",
+      "title": "Plan a Factory's Production with a Linear Program",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/2188",
+      "path": "problems/2188-plan-a-factory-s-production-with-a-linear-program",
+      "first_solved_at": "2026-11-27T13:07:50.352Z",
+      "last_pushed_at": "2026-11-27T13:07:50.352Z",
+      "language": "python",
+      "lines": 81
     }
   }
 }
