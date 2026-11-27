@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 28 problems · 1 labs · 4 math
+**34** solved · 29 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Smooth L1 Loss with a Beta Parameter](https://www.deep-ml.com/problems/1372) | easy | 2026-11-27 | [solution](problems/1372-smooth-l1-loss-with-a-beta-parameter) |
 | [Automated Data Profile: Types, Missingness, Cardinality and Outliers](https://www.deep-ml.com/problems/2177) | medium | 2026-11-25 | [solution](problems/2177-automated-data-profile-types-missingness-cardinality-and-outliers) |
 | [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-11-27 | [solution](problems/0845-columntransformer-style-dispatcher) |
+| [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-11-27 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
 | [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-11-27 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
 | [Detect Target Leakage in a Feature Matrix](https://www.deep-ml.com/problems/1359) | medium | 2026-11-27 | [solution](problems/1359-detect-target-leakage-in-a-feature-matrix) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-11-27 | [solution](problems/0847-dummy-classifier-baseline) |
