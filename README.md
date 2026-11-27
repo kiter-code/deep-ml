@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 29 problems · 1 labs · 4 math
+**35** solved · 30 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-11-27 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Coefficient of Variation per Group with Small-Sample Correction](https://www.deep-ml.com/problems/2236) | easy | 2026-11-25 | [solution](problems/2236-coefficient-of-variation-per-group-with-small-sample-correction) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-11-25 | [solution](problems/0078-descriptive-statistics-calculator) |
+| [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-11-27 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Feature Crosses for Categorical Inputs](https://www.deep-ml.com/problems/1717) | easy | 2026-11-27 | [solution](problems/1717-feature-crosses-for-categorical-inputs) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-11-26 | [solution](problems/0016-feature-scaling-implementation) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-11-26 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
