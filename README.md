@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 37 problems · 2 labs · 11 math
+**51** solved · 37 problems · 2 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-11-25 | [solution](math/0018-descriptive-statistics) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-11-26 | [solution](math/0030-ml-workflow-basics) |
+| [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-11-27 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-11-27 | [solution](math/0039-bias-variance-decomposition) |
 | [Missing-Data Mechanisms: MCAR, MAR, NMAR and the Bias of Mean Imputation](https://www.deep-ml.com/math-problems/354) | medium | 2026-11-26 | [solution](math/0354-missing-data-mechanisms-mcar-mar-nmar-and-the-bias-of-mean-imputation) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-11-27 | [solution](math/0006-optimization-convexity-and-critical-points) |
