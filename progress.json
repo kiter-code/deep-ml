@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:43:46.803Z",
+  "generated_at": "2026-11-27T12:52:08.149Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -541,6 +541,19 @@
       "path": "math/0419-kkt-on-the-l1-ball-qp",
       "first_solved_at": "2026-11-27T12:43:46.086Z",
       "last_pushed_at": "2026-11-27T12:43:46.086Z"
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-11-27T12:52:07.185Z",
+      "last_pushed_at": "2026-11-27T12:52:07.185Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }

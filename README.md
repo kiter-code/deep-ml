@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 32 problems · 2 labs · 9 math
+**44** solved · 33 problems · 2 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-11-27 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Automated Data Profile: Types, Missingness, Cardinality and Outliers](https://www.deep-ml.com/problems/2177) | medium | 2026-11-25 | [solution](problems/2177-automated-data-profile-types-missingness-cardinality-and-outliers) |
 | [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-11-27 | [solution](problems/0845-columntransformer-style-dispatcher) |
+| [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-11-27 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-11-27 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
 | [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-11-27 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
 | [Detect Target Leakage in a Feature Matrix](https://www.deep-ml.com/problems/1359) | medium | 2026-11-27 | [solution](problems/1359-detect-target-leakage-in-a-feature-matrix) |
