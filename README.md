@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 37 problems · 2 labs · 9 math
+**49** solved · 37 problems · 2 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Missing-Data Mechanisms: MCAR, MAR, NMAR and the Bias of Mean Imputation](https://www.deep-ml.com/math-problems/354) | medium | 2026-11-26 | [solution](math/0354-missing-data-mechanisms-mcar-mar-nmar-and-the-bias-of-mean-imputation) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-11-27 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-11-27 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
+| [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-11-27 | [solution](math/0031-regularization-and-generalization) |
 | [Subgradients, Lipschitz Smoothness and Strong Convexity](https://www.deep-ml.com/math-problems/418) | medium | 2026-11-27 | [solution](math/0418-subgradients-lipschitz-smoothness-and-strong-convexity) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-11-27 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-27 | [solution](math/0008-vector-norms-and-linear-independence) |
