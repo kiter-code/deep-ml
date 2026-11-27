@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 37 problems · 2 labs · 13 math
+**53** solved · 37 problems · 2 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-11-27 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [$C_p$, AIC, BIC, and Adjusted $R^2$](https://www.deep-ml.com/math-problems/93) | medium | 2026-11-27 | [solution](math/0093-c-p-aic-bic-and-adjusted-r-2) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-11-27 | [solution](math/0039-bias-variance-decomposition) |
+| [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-11-27 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
 | [Missing-Data Mechanisms: MCAR, MAR, NMAR and the Bias of Mean Imputation](https://www.deep-ml.com/math-problems/354) | medium | 2026-11-26 | [solution](math/0354-missing-data-mechanisms-mcar-mar-nmar-and-the-bias-of-mean-imputation) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-11-27 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-11-27 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
