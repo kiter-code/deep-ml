@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:37:59.100Z",
+  "generated_at": "2026-11-27T12:43:46.803Z",
   "items": {
     "math:18": {
       "kind": "math",
@@ -530,6 +530,17 @@
       "path": "math/0418-subgradients-lipschitz-smoothness-and-strong-convexity",
       "first_solved_at": "2026-11-27T12:37:58.462Z",
       "last_pushed_at": "2026-11-27T12:37:58.462Z"
+    },
+    "math:419": {
+      "kind": "math",
+      "id": "419",
+      "title": "KKT on the l1-Ball QP",
+      "difficulty": "hard",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/419",
+      "path": "math/0419-kkt-on-the-l1-ball-qp",
+      "first_solved_at": "2026-11-27T12:43:46.086Z",
+      "last_pushed_at": "2026-11-27T12:43:46.086Z"
     }
   }
 }

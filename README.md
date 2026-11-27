@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 32 problems · 2 labs · 8 math
+**43** solved · 32 problems · 2 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Subgradients, Lipschitz Smoothness and Strong Convexity](https://www.deep-ml.com/math-problems/418) | medium | 2026-11-27 | [solution](math/0418-subgradients-lipschitz-smoothness-and-strong-convexity) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-11-27 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-27 | [solution](math/0008-vector-norms-and-linear-independence) |
+| [KKT on the l1-Ball QP](https://www.deep-ml.com/math-problems/419) | hard | 2026-11-27 | [solution](math/0419-kkt-on-the-l1-ball-qp) |
 
 ---
 
