@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 27 problems · 1 labs · 4 math
+**33** solved · 28 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-11-26 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-26 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-11-26 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
+| [Smooth L1 Loss with a Beta Parameter](https://www.deep-ml.com/problems/1372) | easy | 2026-11-27 | [solution](problems/1372-smooth-l1-loss-with-a-beta-parameter) |
 | [Automated Data Profile: Types, Missingness, Cardinality and Outliers](https://www.deep-ml.com/problems/2177) | medium | 2026-11-25 | [solution](problems/2177-automated-data-profile-types-missingness-cardinality-and-outliers) |
 | [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-11-27 | [solution](problems/0845-columntransformer-style-dispatcher) |
 | [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-11-27 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
