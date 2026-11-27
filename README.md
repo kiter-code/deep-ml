@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 22 problems · 0 labs · 3 math
+**26** solved · 23 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Coefficient of Variation per Group with Small-Sample Correction](https://www.deep-ml.com/problems/2236) | easy | 2026-11-25 | [solution](problems/2236-coefficient-of-variation-per-group-with-small-sample-correction) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-11-25 | [solution](problems/0078-descriptive-statistics-calculator) |
+| [Feature Crosses for Categorical Inputs](https://www.deep-ml.com/problems/1717) | easy | 2026-11-27 | [solution](problems/1717-feature-crosses-for-categorical-inputs) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-11-26 | [solution](problems/0016-feature-scaling-implementation) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-11-26 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-26 | [solution](problems/0112-min-max-scaling-of-feature-values) |
