@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 23 problems · 1 labs · 4 math
+**29** solved · 24 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-11-27 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Coefficient of Variation per Group with Small-Sample Correction](https://www.deep-ml.com/problems/2236) | easy | 2026-11-25 | [solution](problems/2236-coefficient-of-variation-per-group-with-small-sample-correction) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-11-25 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Feature Crosses for Categorical Inputs](https://www.deep-ml.com/problems/1717) | easy | 2026-11-27 | [solution](problems/1717-feature-crosses-for-categorical-inputs) |
